@@ -27,5 +27,5 @@ A modern, intelligent web scraping application built with **Python** and **Strea
 
 ---
 
-## 📂 Project Structure
+
 
